@@ -4,11 +4,13 @@ import { motion, AnimatePresence, useViewportScroll } from "framer-motion";
 import { getMovies, IGetMoviesResult } from "../api";
 import { makeImagePath } from "../utils";
 import { useState } from "react";
-import { useHistory, useRouteMatch } from "react-router-dom";
+import { Link, useRouteMatch, useHistory } from "react-router-dom";
+
 
 const Wrapper = styled.div`
   background: black;
   padding-bottom: 200px;
+  overflow-x:hidden;
 `;
 
 const Loader = styled.div`
