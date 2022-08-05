@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/nomfilx-clone/static/js/main.4561acce.chunk.js",
+    "main.js.map": "/nomfilx-clone/static/js/main.4561acce.chunk.js.map",
+    "runtime-main.js": "/nomfilx-clone/static/js/runtime-main.0048e265.js",
+    "runtime-main.js.map": "/nomfilx-clone/static/js/runtime-main.0048e265.js.map",
+    "static/js/2.4e89b790.chunk.js": "/nomfilx-clone/static/js/2.4e89b790.chunk.js",
+    "static/js/2.4e89b790.chunk.js.map": "/nomfilx-clone/static/js/2.4e89b790.chunk.js.map",
+    "index.html": "/nomfilx-clone/index.html",
+    "static/js/2.4e89b790.chunk.js.LICENSE.txt": "/nomfilx-clone/static/js/2.4e89b790.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0048e265.js",
+    "static/js/2.4e89b790.chunk.js",
+    "static/js/main.4561acce.chunk.js"
+  ]
+}
